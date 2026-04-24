@@ -120,7 +120,7 @@ class GouravYadav(SoftwareEngineer):
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E40F0F,100:FF77BC&height=55&section=header&text=%F0%9F%93%A1%20DB%20%26%20Port%20Monitoring%20%E2%80%94%20NMS&fontColor=ffffff&fontSize=16&fontAlignY=55" width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E40F0F,100:FF77BC&height=55&section=header&text=%F0%9F%93%A1%20DB%20and%20Port%20Monitoring%20%E2%80%94%20NMS&fontColor=ffffff&fontSize=16&fontAlignY=55" width="100%" />
       <br/><br/>
       <p align="left">
         Three-tier NMS monitoring ports, services, system metrics and
