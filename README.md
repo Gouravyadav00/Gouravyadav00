@@ -2,7 +2,7 @@
 <!--                            ANIMATED HEADER                                  -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C22A6,50:6943FF,100:21D4FD&height=280&section=header&text=Gourav%20Yadav&fontSize=80&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Security%20%26%20Infrastructure&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C22A6,50:6943FF,100:21D4FD&height=280&section=header&text=Gourav%20Yadav&fontSize=80&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Security%20%E2%80%A2%20Infrastructure&descSize=18&descAlignY=58" width="100%" />
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!--                           TYPING ANIMATION                                  -->
