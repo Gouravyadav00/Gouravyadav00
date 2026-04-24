@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/gouravyadavv">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=9333EA&center=true&vCenter=true&multiline=true&width=800&height=110&lines=%3E+Software+Engineer+%40+Infraknit+Technologies;%3E+Unified+SIEM+%2B+SOAR+%2B+SSO+platform;%3E+Predictive+NMS+deployed+to+Airtel;%3E+AI-driven+IETM+viewer+for+the+Indian+Air+Force" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=9333EA&center=true&vCenter=true&multiline=true&width=800&height=180&lines=%3E+Software+Engineer+%40+Infraknit+Technologies;%3E+Unified+SIEM+%2B+SOAR+%2B+SSO+platform;%3E+Predictive+NMS+deployed+to+Airtel;%3E+AI-driven+IETM+viewer+for+the+Indian+Air+Force" alt="typing" />
   </a>
 </div>
 
